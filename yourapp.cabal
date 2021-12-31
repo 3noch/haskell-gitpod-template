@@ -29,7 +29,10 @@ executable yourapp
 
   -- LANGUAGE extensions used by modules in this package.
   -- other-extensions:
-  build-depends:    base ^>=4.14.3.0
+  build-depends:    base ^>=4.14.3.0,
+                    codeworld-api==0.7.0,
+                    containers,
+                    text
   ghc-options: -threaded
   hs-source-dirs:   app
   default-language: Haskell2010

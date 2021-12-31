@@ -23,3 +23,6 @@ RUN . ~/.ghcup/env && cabal build
 RUN . ~/.ghcup/env && eval "$(ghcup whereis hls)"
 
 WORKDIR /home/gitpod
+
+# expose blank-canvas port
+EXPOSE 3000

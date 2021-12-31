@@ -2,7 +2,7 @@
 
 This project is a generic starter for Haskell developers to use in [Gitpod](https://www.gitpod.io/) that includes basic system tools and extensions.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/3noch/haskell-gitpod-template/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/3noch/haskell-gitpod-template/tree/codeworld)
 
 ## What's Included
 

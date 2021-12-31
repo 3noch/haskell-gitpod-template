@@ -1,4 +1,4 @@
-image: 3noch/haskell-gitpod-template
+image: 3noch/haskell-gitpod-codeworld-template
 vscode:
   extensions:
     - haskell.haskell

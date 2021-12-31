@@ -1,4 +1,6 @@
 module Main where
 
+import CodeWorld
+
 main :: IO ()
-main = print "Hello World"
+main = drawingOf (circle 1)
