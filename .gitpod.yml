@@ -1,0 +1,9 @@
+image: 3noch/haskell-gitpod-template
+vscode:
+  extensions:
+    - haskell.haskell
+    - hoovercj.haskell-linter
+    - justusadam.language-haskell
+tasks:
+  - command: |
+      ghcid --run
