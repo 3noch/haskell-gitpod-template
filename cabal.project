@@ -1,7 +1,7 @@
 source-repository-package
   type: git
-  location: git://github.com/3noch/codeworld.git
-  tag: d8a6934056e6dc65b2bd11d7911828b147b7050c
+  location: git://github.com/google/codeworld.git
+  tag: 626d9d731591f32877539fc5d8a98fe1087ddd90
   subdir: codeworld-api
 
 packages: .
